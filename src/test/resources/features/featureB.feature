@@ -1,6 +1,5 @@
 Feature: The application should be running
 
-
   @regression @test
 Scenario: navigate page
 Given I am on the home page
